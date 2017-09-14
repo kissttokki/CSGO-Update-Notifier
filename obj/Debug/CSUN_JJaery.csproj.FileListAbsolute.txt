@@ -1,0 +1,8 @@
+c:\users\jeon\documents\visual studio 2017\Projects\CSUN_JJaery\CSUN_JJaery\bin\Debug\CSUN_JJaery.exe.config
+c:\users\jeon\documents\visual studio 2017\Projects\CSUN_JJaery\CSUN_JJaery\bin\Debug\CSUN_JJaery.exe
+c:\users\jeon\documents\visual studio 2017\Projects\CSUN_JJaery\CSUN_JJaery\bin\Debug\CSUN_JJaery.pdb
+c:\users\jeon\documents\visual studio 2017\Projects\CSUN_JJaery\CSUN_JJaery\obj\Debug\CSUN_JJaery.Form1.resources
+c:\users\jeon\documents\visual studio 2017\Projects\CSUN_JJaery\CSUN_JJaery\obj\Debug\CSUN_JJaery.Properties.Resources.resources
+c:\users\jeon\documents\visual studio 2017\Projects\CSUN_JJaery\CSUN_JJaery\obj\Debug\CSUN_JJaery.csproj.GenerateResource.Cache
+c:\users\jeon\documents\visual studio 2017\Projects\CSUN_JJaery\CSUN_JJaery\obj\Debug\CSUN_JJaery.exe
+c:\users\jeon\documents\visual studio 2017\Projects\CSUN_JJaery\CSUN_JJaery\obj\Debug\CSUN_JJaery.pdb
