@@ -6,3 +6,12 @@ c:\users\jeon\documents\visual studio 2017\Projects\CSUN_JJaery\CSUN_JJaery\obj\
 c:\users\jeon\documents\visual studio 2017\Projects\CSUN_JJaery\CSUN_JJaery\obj\Debug\CSUN_JJaery.csproj.GenerateResource.Cache
 c:\users\jeon\documents\visual studio 2017\Projects\CSUN_JJaery\CSUN_JJaery\obj\Debug\CSUN_JJaery.exe
 c:\users\jeon\documents\visual studio 2017\Projects\CSUN_JJaery\CSUN_JJaery\obj\Debug\CSUN_JJaery.pdb
+D:\git\CSGO-Update-Notifier\bin\Debug\CSUN_JJaery.exe.config
+D:\git\CSGO-Update-Notifier\bin\Debug\CSUN_JJaery.exe
+D:\git\CSGO-Update-Notifier\bin\Debug\CSUN_JJaery.pdb
+D:\git\CSGO-Update-Notifier\obj\Debug\CSUN_JJaery.csprojResolveAssemblyReference.cache
+D:\git\CSGO-Update-Notifier\obj\Debug\CSUN_JJaery.Form1.resources
+D:\git\CSGO-Update-Notifier\obj\Debug\CSUN_JJaery.Properties.Resources.resources
+D:\git\CSGO-Update-Notifier\obj\Debug\CSUN_JJaery.csproj.GenerateResource.Cache
+D:\git\CSGO-Update-Notifier\obj\Debug\CSUN_JJaery.exe
+D:\git\CSGO-Update-Notifier\obj\Debug\CSUN_JJaery.pdb

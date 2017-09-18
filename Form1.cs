@@ -215,12 +215,12 @@ namespace CSUN_JJaery
                 {
                     Writeini("Updator", "recentlyKey", recentlyTitle);
 
-
-                    notifyIcon1.BalloonTipIcon = ToolTipIcon.Info;
+                notifyIcon1.BalloonTipIcon = ToolTipIcon.Info;
                     notifyIcon1.BalloonTipTitle = "새로운 게시글이 등록되었습니다.";
                     notifyIcon1.BalloonTipText = string.Format("제목 : {0}" , title);
-                    notifyIcon1.ShowBalloonTip(int.MaxValue);
-                }
+                    notifyIcon1.ShowBalloonTip(60000);
+                MessageBox.Show("새로운 게시글이 등록되었습니다. \r\n" + string.Format("제목 : {0}", title));
+            }
                 
             
         }
